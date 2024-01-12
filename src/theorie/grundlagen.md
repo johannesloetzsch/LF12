@@ -1,10 +1,19 @@
 # Theorie
 
 ## Projekt
+* einzigartig
+  * themengebunden
+  * grenzt sich von sonstigen Aufgaben ab
+* zeitlich terminiert
+* benötigten Ressourcen sind festgelegt
 
 ### Kick-off-Sitzung
-
-## Projektmanagementstandards
+* Projektstart
+* Einführung
+  * Projektbeteiligte
+* Grober Projektplan
+* Thema, Umfang, Abgrenzung
+* Rahmenbedingungen
 
 ## Rahmenbedingungen
 
@@ -16,6 +25,8 @@
 | Gewählte Organisationsform      |  |
 
 ### Projektbeteiligte
+
+## Projektmanagementstandards
 
 ## Projektorganisationsformen
 
