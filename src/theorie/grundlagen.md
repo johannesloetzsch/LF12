@@ -34,22 +34,31 @@
 * Regeln der Zusammenarbeit, Rollen/Aufgaben klären
 * Grober Projektplan
 
-### Planung
+## Planung
 
-#### Auftrag, Zielstellung
+### Auftrag, Zielstellung
 
 Qualität vs Zeit vs Kosten
 
-##### SMART
+#### SMART
 * Spezifisch
 * Messbar
 * Ausführbar (erreichbar)
 * Realistisch
 * Terminierbar
 
-#### Ausgangssituation, Ist-Analyse
+### Lasten- und Pflichtenheft
 
-#### Ressourcenplanung, Soll-Konzept
+### Anforderungen
+
+* Funktionale Anforderungen
+* Nicht funktionale Anforderungen
+  * Qualitätsanforderungen
+  * Rahmenbedingungen
+
+### Ausgangssituation, Ist-Analyse
+
+### Ressourcenplanung, Soll-Konzept
 * Arbeitspakete
 * Zeitplanung
   * Meilensteine
@@ -88,6 +97,7 @@ Qualität vs Zeit vs Kosten
 
 ### Agile
 
+* Spriralmodel
 * Scrum
 * Kanban
 * XP
@@ -131,9 +141,14 @@ Qualität vs Zeit vs Kosten
 
 ### Qualitätssicherung
 
-## Lasten- und Pflichtenheft
-
 ## Wirtschaftlichkeit
+
+### Kosten
+* Personalkosten
+* Hardwarekosten
+* Softwarekosten
+* Energiekosten
+* Fremdkosten
 
 ## Risiken
 
@@ -141,6 +156,18 @@ Qualität vs Zeit vs Kosten
 * Zeitliche und Finanzielle Risiken
 * Technologische Risiken
 * Organisatorische Risiken
+
+### Risikokennziffer
+
+Wahrscheinlichkeit des Auftretens
+* 1 … so gut wie nicht vorhanden
+* 5 … so gut wie sicher
+
+Schadenspotential
+* 1 … minimal
+* 5 … katastrophal
+
+Risikokennziffer = Wahrscheinlichkeit * Schadenspotential
 
 ## Softwareentwicklung planen
 

@@ -13,3 +13,5 @@ ca 60h
 
 * 1 Klassenarbeit (90min)
 * 3 Sonstige Noten (Projektarbeit)
+
+## Klassenarbeit 14.03. 1.+2. Stunde
