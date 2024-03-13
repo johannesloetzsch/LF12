@@ -100,6 +100,7 @@ Qualität vs Zeit vs Kosten
 * Spriralmodel
 * Scrum
 * Kanban
+* Design Thinking
 * XP
 
 ## Qualitätskriterien
