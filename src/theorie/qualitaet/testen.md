@@ -2,6 +2,6 @@
 
 * Planung des Testens
 * Planung von Testdaten
-* Umsetzung von atuomatischen Unittests
+* Umsetzung von automatischen Unittests
 * Testen der funktionalen Anforderungen
 * Testen der nichtfunktionalen Anforderungen

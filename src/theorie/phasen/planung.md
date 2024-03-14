@@ -1,6 +1,6 @@
 # Planung
 
-## SMART
+## [SMART](https://de.wikipedia.org/wiki/SMART_(Projektmanagement))
 * Spezifisch
 * Messbar
 * Ausführbar (erreichbar)
@@ -12,7 +12,7 @@
 * Arbeitspakete
 * Zeitplanung
   * Meilensteine
-  * Netzplan / Gantt-Diagram
+  * [Netzplan](https://johannesloetzsch.github.io/LF7/pruefung/netzplan.html) / Gantt-Diagram
 * Kosten-/Budgetplanung
 * Nutzwertanalyse, Risikoabschätzung
 

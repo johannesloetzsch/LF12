@@ -1,6 +1,6 @@
 # Qualität, Risiken
 
-## Qualitätskriterien
+## Qualitätsmerkmale (-Kriterien)
 <!-- Lehrbuch AE Seite 265 -->
 
 * Funktionalität

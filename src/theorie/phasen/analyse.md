@@ -4,11 +4,12 @@
 * Ausgangssituation
 
 ## Soll-Zustand
+Ziele sollten [SMART](./planung.md#smart) formuliert werden…
 
 ### Anforderungen
 
 * Funktionale Anforderungen
-* Nicht funktionale Anforderungen
+* [Nicht funktionale Anforderungen](https://de.wikipedia.org/wiki/Anforderung_(Informatik)#Klassifikation_nichtfunktionaler_Anforderungen)
   * Qualitätsanforderungen
   * Rahmenbedingungen
 
