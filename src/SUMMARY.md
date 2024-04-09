@@ -16,3 +16,4 @@
   - [LF12](./beispielprojekte/lf12.md)
   - [LF12 Praxisprojekt](./beispielprojekte/lf12_praxis.md)
 - [Prüfungsvorbereitung](./pruefungsvorbereitung/uebersicht.md)
+  - [Themenübersicht](./pruefungsvorbereitung/themen.md)
