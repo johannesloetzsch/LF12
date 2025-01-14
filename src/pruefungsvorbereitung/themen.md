@@ -13,9 +13,6 @@
 
 
 ## [UML](https://johannesloetzsch.github.io/LF7/pruefung/uml.html)
-### Anwendungsfalldiagramm
-### Sequenzdiagramm
-### [Aktivitätsdiagramm](https://de.wikipedia.org/wiki/Aktivit%C3%A4tsdiagramm)
 
 
 ## Pseudocode

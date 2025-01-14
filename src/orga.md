@@ -2,16 +2,80 @@
 
 ## LF12a + LF12b + PV
 
-### Theorie
+##### Theorie
 ca 30h
-### Praxisprojekte
+##### Praxisprojekte
 ca 30h
-### Prüfungsvorbereitung
+##### Prüfungsvorbereitung
 ca 60h
 
 ## Noten
 
 * 1 Klassenarbeit (90min)
-* 3 Sonstige Noten (Projektarbeit)
+* 3 Sonstige Noten
+  * 1 kleiner Test (17.1.)
+  * 2 Noten für Projektarbeit
+    * Projektergebnis (Teamleistung)
+      * fachliche Leistungserbringung gemäß Pflichtenheft
+      * Projektmanagement, Dokumentation
+    * Mitarbeitsnote (Einzelleistung)
+      * Fleiß
+      * Selbstständigkeit/Eigeninitiative
+      * Gute Fragen + Zwischenergebnisse
 
-## Klassenarbeit Mi 20.03. 1.+2. DS
+
+## Zeitplan
+
+
+```mermaid
+gantt
+ title LF12 Januar 2025
+ dateFormat YYYY-MM-DD
+ axisFormat %d.%m.
+ section 8h Di 14.1.
+  Aufgabenstellung LF12             :t1, 2025-01-14, 2h
+  Theoretische Grundlagen           :t2, after t1, 3h
+  Praxisprojekt (Kickoff-Meeting)   :after t2, 3h
+ section 1-3h Do 16.1.
+  Klassenarbeit LF11b               :crit, t3, 2025-01-16, 2h
+  Praxis LF12a                      :t4, 2025-01-16, 2h
+  Praxis (Analyse Soll-Zustand, Projektplanung)  :after t3, after t4, 1h
+ section 4h Fr 17.1.
+  Praxis                            :2025-01-17, 4h
+```
+
+```mermaid
+gantt
+ title LF12 März 2025, KW 10
+ dateFormat YYYY-MM-DD
+ axisFormat %d.%m.
+ section 2h Mo 3.3.
+  Praxis                            :2025-03-03, 2h
+ section 3h Di 4.3.
+  Praxis                            :2025-03-04, 3h
+ section 3h Mi 5.3.
+  Wiederholung für Klassenarbeit    :2025-03-05, 3h
+ section 5h Do 6.3.
+  Klassenarbeit                     :crit, t10, 2025-03-06, 2h
+  Praxis                            :after t10, 3h
+ section 4h Fr 7.3.
+  Praxis                            :2025-03-07, 4h
+```
+
+```mermaid
+gantt
+ title LF12 März 2025, KW 11
+ dateFormat YYYY-MM-DD
+ axisFormat %d.%m.
+ section 6h Mo 10.3.
+  Praxis (Abschluss Implementation) :2025-03-10, 6h
+ section 8h Di 11.3.
+  Praxis (Testen/Evaluaton, Vorbereitung Präsentation) :2025-03-11, 8h
+ section 5h Mi 12.3.
+  Projektpräsentationen             :2025-03-12, 5h
+```
+
+
+## Klassenarbeit Do 6.3.2025 1.+2. DS
+* Inhalte:
+  * „Theorie“ (Kapitel 2) vollständig
