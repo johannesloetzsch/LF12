@@ -36,13 +36,22 @@ gantt
   Aufgabenstellung LF12             :t1, 2025-01-14, 2h
   Theoretische Grundlagen           :t2, after t1, 3h
   Praxisprojekt (Kickoff-Meeting)   :after t2, 3h
- section 1-3h Do 16.1.
-  Klassenarbeit LF11b               :crit, t3, 2025-01-16, 2h
-  Praxis LF12a                      :t4, 2025-01-16, 2h
-  Praxis (Analyse Soll-Zustand, Projektplanung)  :after t3, after t4, 1h
+ section 3h Do 16.1.
+  Test                              :crit, t3, 2025-01-16, 1h
+  Praxis (Analyse Soll-Zustand, Projektplanung)  :after t3, 2h
  section 4h Fr 17.1.
-  Praxis                            :2025-01-17, 4h
+  Klassenarbeit LF11b               :crit, 2025-01-17, 2h
+  Praxis LF12a                      :t4, 2025-01-17, 2h
+  Praxis                            :after t4, 2h
 ```
+#### 2025-01-17
+
+|       | Anwendungsentwickler            | Systemintegratoren                 |
+| ----- | ------------------------------- | ------------------------------     |
+| 1.+2. | Praxisprojekt LF12 (Raum 236)   | **Klassenarbeit** LF11b (Raum 247) |
+| 3.+4. | Praxisprojekt LF12  (Raum 247)  | Praxisprojekt LF12 (Raum 247)      |
+| 5.+6. | Klassenarbeit LF11a (Raum 236)  | Endpoint Security (Infos für SOL)  |
+| 7.+8. | SOL LF11a                       | SOL LF11b (Endpoint Security)      |
 
 ```mermaid
 gantt

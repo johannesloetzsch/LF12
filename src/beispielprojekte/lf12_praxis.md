@@ -1,9 +1,9 @@
 # LF12 Praxisprojekt
 
-> * [ ] Führen Sie ein [Kickoff-Meeting](initiierung.md#kickoff-meeting) durch.
->   * [ ] Dokumentieren Sie die **[Rahmenbedingungen](initiierung.md#rahmenbedingungen)** des gewälten Projektes.
+> * [x] Führen Sie ein [Kickoff-Meeting](../theorie/phasen/initiierung.md#kickoff-meeting) durch.
+>   * [x] Dokumentieren Sie die **[Rahmenbedingungen](../theorie/phasen/initiierung.md#rahmenbedingungen)** des gewälten Projektes.
 
-> * [ ] Definieren Sie den [Soll-Zustand](analyse.md#soll-zustand) des gewählten Projektes.
+> * [ ] Definieren Sie den [Soll-Zustand](../theorie/phasen/analyse.md#soll-zustand) des gewählten Projektes.
 >  * [ ] Schreiben Sie einen **Projektplan** einschließlich **Pflichtenheft** und **Zeitplanung**.
 
 ## Pflichtenheft
