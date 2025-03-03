@@ -63,12 +63,12 @@ gantt
  section 3h Di 4.3.
   Praxis                            :2025-03-04, 3h
  section 3h Mi 5.3.
-  Wiederholung für Klassenarbeit    :2025-03-05, 3h
+  Praxis                            :2025-03-05, 3h
  section 5h Do 6.3.
-  Klassenarbeit                     :crit, t10, 2025-03-06, 2h
-  Praxis                            :after t10, 3h
+  Wiederholung für Klassenarbeit + Praxis :2025-03-06, 5h
  section 4h Fr 7.3.
-  Praxis                            :2025-03-07, 4h
+  Klassenarbeit                     :crit, t10, 2025-03-07, 2h
+  Praxis                            :after t10, 2h
 ```
 
 ```mermaid
