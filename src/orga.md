@@ -86,5 +86,24 @@ gantt
 
 
 ## Klassenarbeit Do 6.3.2025 1.+2. DS
+* Erlaubte Hilfsmittel:
+  * Keine
 * Inhalte:
-  * „Theorie“ (Kapitel 2) vollständig
+  * „Theorie“ (Kapitel 2) fast vollständig
+    * Ausnahmen (bereits am 16.1. abgefragt): 
+      * 4-Ohren-Modell
+      * Netzplan
+* Schwerpunkte:
+  * [Projektmerkmale](theorie/grundlagen.md)
+  * [Projektmanagementstandards](theorie/grundlagen.md)
+  * [Projektphasen](theorie/phasen.md)
+  * [Magisches Dreieck](theorie/phasen/initiierung.md)
+  * Projektplanungsdokumente
+  * [Organisationsformen](theorie/phasen/initiierung/organisationsformen.md)
+  * [Vorgehensmodelle](theorie/phasen/initiierung/vorgehensmodelle.md)
+  * [IST-/SOLL-Zustand](theorie/phasen/analyse.md)
+  * [SMART-Kriterien](theorie/phasen/planung.md)
+  * [(nicht)funktonale Anforderungen](theorie/phasen/analyse.md)
+  * [Lasten-/Pflichtenheft](theorie/phasen/analyse.md)
+  * Zeit-/[Ressourcenplanung](theorie/phasen/planung.md)
+  

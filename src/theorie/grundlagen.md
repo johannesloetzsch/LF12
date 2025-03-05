@@ -1,6 +1,6 @@
 # Theorie
 
-## Projekt
+## Projekt(merkmale)
 * einzigartig
   * themengebunden
   * grenzt sich von sonstigen Aufgaben ab
