@@ -97,8 +97,8 @@ gantt
   * [Projektmerkmale](theorie/grundlagen.md)
   * [Projektmanagementstandards](theorie/grundlagen.md)
   * [Projektphasen](theorie/phasen.md)
+  * [Projektplanungsdokumente](theorie/phasen.md)
   * [Magisches Dreieck](theorie/phasen/initiierung.md)
-  * Projektplanungsdokumente
   * [Organisationsformen](theorie/phasen/initiierung/organisationsformen.md)
   * [Vorgehensmodelle](theorie/phasen/initiierung/vorgehensmodelle.md)
   * [IST-/SOLL-Zustand](theorie/phasen/analyse.md)

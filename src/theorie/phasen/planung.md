@@ -15,6 +15,7 @@
   * [Netzplan](https://johannesloetzsch.github.io/LF7/pruefung/netzplan.html) / Gantt-Diagram
 * Kosten-/Budgetplanung
 * Nutzwertanalyse, Risikoabschätzung
+* Machbarkeitsstudie
 
 
 ## Softwareentwicklung planen

@@ -3,8 +3,8 @@
 > * [x] Führen Sie ein [Kickoff-Meeting](../theorie/phasen/initiierung.md#kickoff-meeting) durch.
 >   * [x] Dokumentieren Sie die **[Rahmenbedingungen](../theorie/phasen/initiierung.md#rahmenbedingungen)** des gewälten Projektes.
 
-> * [ ] Definieren Sie den [Soll-Zustand](../theorie/phasen/analyse.md#soll-zustand) des gewählten Projektes.
->  * [ ] Schreiben Sie einen **Projektplan** einschließlich **Pflichtenheft** und **Zeitplanung**.
+> * [x] Definieren Sie den [Soll-Zustand](../theorie/phasen/analyse.md#soll-zustand) des gewählten Projektes.
+>  * [x] Schreiben Sie einen **Projektplan** einschließlich **Pflichtenheft** und **Zeitplanung**.
 
 ## Pflichtenheft
 
