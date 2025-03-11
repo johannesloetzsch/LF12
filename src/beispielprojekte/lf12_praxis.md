@@ -25,7 +25,7 @@
 
 #### Hinweise
 
-> * [ ] Planen Sie **realistisch**:
+> * [x] Planen Sie **realistisch**:
 >   * Was ist in dem für die Durchführung des Projektes vorhandenem Zeitraum realistisch durchführbar?
 >   * Wieviel der Arbeitszeit können und **wollen** die Projektbeteiligten in dem Zeitraum für das Projekt aufwenden?
 >     * Welche anderen Aufgaben haben die Beteiligten außerhalb des Projektes?
@@ -48,3 +48,15 @@
 ## Evaluation + Präsentation
 > * [ ] **Evaluieren** Sie ihr Projektergebnis.
 > * [ ] Bereiten Sie eine **Präsentation** vor.
+>   * Was war die Projektidee?
+>   * Welche Anforderungen wurden ins Pflichtenheft geschrieben?
+>   * Wie wurde das Projekt geplant und umgesetzt?
+>     * Jedes Projektmitglied erklärt bitte seinen Beitrag.
+>     * Auf welche unerwarteten Ereignisse musste reagiert werden? Wie sind Sie damit umgegangen?
+>   * Demo des Ergebnisses
+>   * Was haben Sie aus dem Projekt gelernt?
+>     * Was würden Sie beim nächsten mal genauso/anders machen?
+>     * Welche Tools/Dokumente waren für das Projektmanagement nützlich?
+>     * Würden Sie wieder das gleiche Vorgehensmodell wählen?
+>  
+> Zeitvorgabe für Präsentation: 25min/Projekt
