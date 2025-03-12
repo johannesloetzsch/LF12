@@ -1,12 +1,7 @@
 # Prüfungsvorbereitung
 
-* l…iegt vor
-* b…earbeitet
-* v…erglichen
+## Inhalte alter Prüfungen
 
-|                    | Winter 21 | Sommer 22      | Winter 22      | Sommer 23 | Winter 23     |
-|--------------------|-----------|----------------|----------------|-----------|---------------|
-| **SI Analyse**     | l         | l              | l              | l         | l (SOL 22.3.) |
-| **SI Konzeption**  | l         | v (SOL 22.12.) | v (SOL 17.11.) | l         | l (SOL 22.3.) |
-| **AE Planen**      | l         | l              | l              | l         | l (SOL 22.3.) |
-| **AE Entwicklung** | l         | l              | l              | l         | l (SOL 22.3.) |
+* [Mögliche Themen FIAE](https://it-berufe-podcast.de/moegliche-themen-von-teil-2-der-gestreckten-abschlusspruefung-gap-fuer-fachinformatiker-anwendungsentwicklung/)
+* [Themen der bisherigen IHK-Prüfungen FIAE (video)](https://www.youtube.com/watch?v=IqiOvyor1OQ)
+* [Themen der bisherigen IHK-Prüfungen FIAE (liste)](https://it-berufe-podcast.de/vorbereitung-auf-die-ihk-abschlusspruefung-der-it-berufe/themen-der-schriftlichen-ihk-pruefungen-der-it-berufe/)
