@@ -32,6 +32,9 @@
 >     * Kann/Soll Zeit für Weiterbildung/Bastelprojekte reserviert werden?
 > * [ ] Planen Sie **Puffer** ein.
 
+## Design
+> * [ ] Welche **Diagramme** können helfen, um die Architektur zu erklären?
+
 ## Projektdurchführung
 > * [ ] Führen Sie ihr Projekt durch.
 
@@ -59,4 +62,4 @@
 >     * Welche Tools/Dokumente waren für das Projektmanagement nützlich?
 >     * Würden Sie wieder das gleiche Vorgehensmodell wählen?
 >  
-> Zeitvorgabe für Präsentation: 25min/Projekt
+> Zeitvorgabe für Präsentation: ~25min/Projekt

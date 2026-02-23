@@ -1,11 +1,11 @@
 # Planung
 
 ## [SMART](https://de.wikipedia.org/wiki/SMART_(Projektmanagement))
-* Spezifisch
-* Messbar
-* Ausführbar, angemessen (erreichbar)
-* Realistisch
-* Terminierbar
+* **S**pezifisch
+* **M**essbar
+* **A**usführbar, angemessen
+* **R**ealistisch
+* **T**erminierbar
 
 
 ## Ressourcenplanung

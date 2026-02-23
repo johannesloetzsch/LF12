@@ -38,4 +38,4 @@ Qualität vs. Zeit vs. Kosten
 * [Gewählte Organisationsform](./initiierung/organisationsformen.md)
 * [Gewähltes Vorgehensmodel](./initiierung/vorgehensmodelle.md)
 
-z.B. [Beispielprojekt LF12](../../beispielprojekte/lf12.md)
+z.B. [Beispielprojekt „LF12 Unterricht“](../../beispielprojekte/lf12.md)

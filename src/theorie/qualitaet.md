@@ -56,4 +56,4 @@ Schadenspotential
 * 1 … minimal
 * 5 … katastrophal
 
-Risikokennziffer = Wahrscheinlichkeit * Schadenspotential
+**Risikokennziffer = Wahrscheinlichkeit * Schadenspotential**

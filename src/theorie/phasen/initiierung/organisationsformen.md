@@ -23,14 +23,14 @@
 * Sehr verbreitet
 * Kann als Mischform zwischen Reiner und Stabsprojektorganisation verstanden werden
 
-|                           | Reine Projektorganisation                   | Stabsprojektorganisation                                | Matrixprojektorganisation                                                          |
-|---------------------------|---------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------|
-| Organisationsstruktur     | maximal auf Projekt angepasst               | unverändert                                             | auf wechselnde Projekte ausgelegt                                                  |
-| Einrichtungsaufwand/-Zeit | hoch                                        | minimal                                                 | flexibel                                                                           |
-| Koordinationsaufwand      | minimal (direkte Kommunikation und Weisung) | durch mangelnde Weisungsbefügnis eingeschränt           | Priorisierungsprobleme + möglich Konflikte zwischen Projekt- und Abteilungsleitung |
-| Geeignet für              | Großprojekte                                | kurzfristige / kleine, abteilungsübergreifende Projekte | mittelgroße Projekte mit Wissensaustausch und flexiblem Ressourcenzugriff          |
+|                           | Reine Projektorganisation                       | Stabsprojektorganisation                                | Matrixprojektorganisation                                                          |
+|---------------------------|-------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Organisationsstruktur**     | maximal auf Projekt angepasst                   | unverändert                                             | auf wechselnde Projekte ausgelegt                                                  |
+| **Einrichtungsaufwand/-Zeit** | hoch                                            | **minimal**                                             | flexibel                                                                           |
+| **Koordinationsaufwand**      | **minimal** (direkte Kommunikation und Weisung) | durch mangelnde Weisungsbefügnis eingeschränt           | Priorisierungsprobleme + möglich Konflikte zwischen Projekt- und Abteilungsleitung |
+| **Geeignet für**              | Großprojekte                                    | kurzfristige / kleine, abteilungsübergreifende Projekte | mittelgroße Projekte mit Wissensaustausch und flexiblem Ressourcenzugriff          |
 
 
-> Beispiel aus anderen Fachbereichen Stabsorganisation und Führungsstile:
+> **💡** Beispiel zu `Stabsorganisation` und `Führungsstilen` aus anderem Fachbereich:
 >
-> [fwdv100](https://www.idf.nrw.de/dokumente/wir-ueber-uns/aufgaben-des-idf/fwdv100.pdf)
+> * [Feuerwehr-Dienstvorschrift](https://www.idf.nrw.de/dokumente/wir-ueber-uns/aufgaben-des-idf/fwdv100.pdf)
