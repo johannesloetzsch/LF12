@@ -3,7 +3,7 @@
 ## [SMART](https://de.wikipedia.org/wiki/SMART_(Projektmanagement))
 * Spezifisch
 * Messbar
-* Ausführbar (erreichbar)
+* Ausführbar, angemessen (erreichbar)
 * Realistisch
 * Terminierbar
 
@@ -22,7 +22,7 @@
 
 * Festlegung einer Programmiersprache
 * Festlegung einer Entwicklungsumgebung
-* Festlegung des DMBS
+* Festlegung des DBMS
 * Festlegung der zu verwendenden Frameworks
 * Festlegung der Architektur
 * Funktionalität planen

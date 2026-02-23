@@ -13,7 +13,9 @@
     - [Dokumentation](./theorie/qualitaet/dokumentation.md)
   - [Wirtschaftlichkeit](./theorie/wirtschaftlichkeit.md)
 - [Beispielprojekte](./beispielprojekte/uebersicht.md)
-  - [LF12](./beispielprojekte/lf12.md)
+  - [LF12 Unterricht](./beispielprojekte/lf12.md)
   - [LF12 Praxisprojekt](./beispielprojekte/lf12_praxis.md)
+<!--
 - [Prüfungsvorbereitung](./pruefungsvorbereitung/uebersicht.md)
   - [Themenübersicht](./pruefungsvorbereitung/themen.md)
+-->

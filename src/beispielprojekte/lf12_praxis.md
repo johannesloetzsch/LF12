@@ -1,10 +1,10 @@
 # LF12 Praxisprojekt
 
-> * [x] Führen Sie ein [Kickoff-Meeting](../theorie/phasen/initiierung.md#kickoff-meeting) durch.
->   * [x] Dokumentieren Sie die **[Rahmenbedingungen](../theorie/phasen/initiierung.md#rahmenbedingungen)** des gewälten Projektes.
+> * [ ] Führen Sie ein [Kickoff-Meeting](../theorie/phasen/initiierung.md#kickoff-meeting) durch.
+>   * [ ] Dokumentieren Sie die **[Rahmenbedingungen](../theorie/phasen/initiierung.md#rahmenbedingungen)** des gewälten Projektes.
 
-> * [x] Definieren Sie den [Soll-Zustand](../theorie/phasen/analyse.md#soll-zustand) des gewählten Projektes.
->  * [x] Schreiben Sie einen **Projektplan** einschließlich **Pflichtenheft** und **Zeitplanung**.
+> * [ ] Definieren Sie den [Soll-Zustand](../theorie/phasen/analyse.md#soll-zustand) des gewählten Projektes.
+>  * [ ] Schreiben Sie einen **Projektplan** einschließlich **Pflichtenheft** und **Zeitplanung**.
 
 ## Pflichtenheft
 
@@ -25,7 +25,7 @@
 
 #### Hinweise
 
-> * [x] Planen Sie **realistisch**:
+> * [ ] Planen Sie **realistisch**:
 >   * Was ist in dem für die Durchführung des Projektes vorhandenem Zeitraum realistisch durchführbar?
 >   * Wieviel der Arbeitszeit können und **wollen** die Projektbeteiligten in dem Zeitraum für das Projekt aufwenden?
 >     * Welche anderen Aufgaben haben die Beteiligten außerhalb des Projektes?
@@ -41,7 +41,7 @@
 >     * [ ] Wenn größere Umplanungen nötig sind, **sprechen Sie** sich mit allen Projektbeteiligten ab.
 > * [ ] Führen Sie einen **Stundennachweis** für jedes Teammitglied
 > * [ ] Veröffentlichen Sie regelmäßig einen **Zwischenstand**.
->   * [ ] Bonuspunkte: Nutzen Sie eine Versionskontrolle.
+>   * [ ] Nutzen Sie ein Versionskontrollsystem.
 > * [ ] Erstellen Sie die **[Dokumentation](../theorie/qualitaet/dokumentation.md)** parallel zur Projektdurchführung.
 
 

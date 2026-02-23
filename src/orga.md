@@ -13,7 +13,7 @@ ca 60h
 
 * 1 Klassenarbeit (90min)
 * 3 Sonstige Noten
-  * 1 kleiner Test (17.1.)
+  * 1 Note auf Projektplan (SOL)
   * 2 Noten für Projektarbeit
     * Projektergebnis (Teamleistung)
       * fachliche Leistungserbringung gemäß Pflichtenheft
@@ -29,68 +29,40 @@ ca 60h
 
 ```mermaid
 gantt
- title LF12 Januar 2025
+ title LF12 2026
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
- section 8h Di 14.1.
-  Aufgabenstellung LF12             :t1, 2025-01-14, 2h
-  Theoretische Grundlagen           :t2, after t1, 3h
-  Praxisprojekt (Kickoff-Meeting)   :after t2, 3h
- section 3h Do 16.1.
-  Test                              :crit, t3, 2025-01-16, 1h
-  Praxis (Analyse Soll-Zustand, Projektplanung)  :after t3, 2h
- section 4h Fr 17.1.
-  Klassenarbeit LF11b               :crit, 2025-01-17, 2h
-  Praxis LF12a                      :t4, 2025-01-17, 2h
-  Praxis                            :after t4, 2h
-```
-#### 2025-01-17
-
-|       | Anwendungsentwickler            | Systemintegratoren                 |
-| ----- | ------------------------------- | ------------------------------     |
-| 1.+2. | Praxisprojekt LF12 (Raum 236)   | **Klassenarbeit** LF11b (Raum 247) |
-| 3.+4. | Praxisprojekt LF12  (Raum 247)  | Praxisprojekt LF12 (Raum 247)      |
-| 5.+6. | Klassenarbeit LF11a (Raum 236)  | Endpoint Security (Infos für SOL)  |
-| 7.+8. | SOL LF11a                       | SOL LF11b (Endpoint Security)      |
-
-```mermaid
-gantt
- title LF12 März 2025, KW 10
- dateFormat YYYY-MM-DD
- axisFormat %d.%m.
- section 2h Mo 3.3.
-  Praxis                            :2025-03-03, 2h
- section 3h Di 4.3.
-  Praxis                            :2025-03-04, 3h
- section 3h Mi 5.3.
-  Praxis                            :2025-03-05, 3h
- section 5h Do 6.3.
-  Wiederholung für Klassenarbeit + Praxis :2025-03-06, 5h
- section 4h Fr 7.3.
-  Klassenarbeit                     :crit, t10, 2025-03-07, 2h
-  Praxis                            :after t10, 2h
+ section LF11
+  LF11 Präsentationen               :2026-02-24, 6h
+ section LF12 Theorie
+  Theorie                           :2026-02-23, 6h
+  Q&A                               :2026-02-25, 8h
+  Klassenarbeit                     :crit, t1, 2026-02-26, 2h
+ section DK
+  Pflichtenheft                     :t2, 2026-02-27, 2h
+  Pflichtenheft                     :t3, 2026-03-02, 2h
+ section LF12 Praxis
+  Projektinitiierung                :after t1, 2026-02-26, 4h
+  Projektplan                       :t4, after t2, 4h
+  SOL Projektplan                   :crit, after t4, 2h
+  Umsetzung                         :after t3, 6h
+  Umsetzung                         :after t6, 6h
+  Umsetzung                         :after t7, 6h
+  Umsetzung                         :2026-03-05, 6h
+  Präsentation                      :crit, t5, after t8, 4h
+  Reflexion                         :after t5, 2h
+ section Eng
+  Abstract                          :t6, 2026-03-03, 2h
+  Abstract                          :crit, t7, 2026-03-04, 2h
+  Documentation                     :crit, t8, 2026-03-06, 2h
 ```
 
-```mermaid
-gantt
- title LF12 März 2025, KW 11
- dateFormat YYYY-MM-DD
- axisFormat %d.%m.
- section 6h Mo 10.3.
-  Praxis (Abschluss Implementation) :2025-03-10, 6h
- section 8h Di 11.3.
-  Praxis (Testen/Evaluaton, Vorbereitung Präsentation) :2025-03-11, 8h
- section 5h Mi 12.3.
-  Projektpräsentationen             :2025-03-12, 5h
-```
-
-
-## Klassenarbeit Do 6.3.2025 1.+2. DS
+## Klassenarbeit Do 26.02.2026 3.+4. DS
 * Erlaubte Hilfsmittel:
   * Keine
 * Inhalte:
   * „Theorie“ (Kapitel 2) fast vollständig
-    * Ausnahmen (bereits am 16.1. abgefragt): 
+    * Ausnahmen: 
       * 4-Ohren-Modell
       * Netzplan
 * Schwerpunkte:

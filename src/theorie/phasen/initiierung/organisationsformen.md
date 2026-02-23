@@ -30,3 +30,7 @@
 | Koordinationsaufwand      | minimal (direkte Kommunikation und Weisung) | durch mangelnde Weisungsbefügnis eingeschränt           | Priorisierungsprobleme + möglich Konflikte zwischen Projekt- und Abteilungsleitung |
 | Geeignet für              | Großprojekte                                | kurzfristige / kleine, abteilungsübergreifende Projekte | mittelgroße Projekte mit Wissensaustausch und flexiblem Ressourcenzugriff          |
 
+
+> Beispiel aus anderen Fachbereichen Stabsorganisation und Führungsstile:
+>
+> [fwdv100](https://www.idf.nrw.de/dokumente/wir-ueber-uns/aufgaben-des-idf/fwdv100.pdf)
