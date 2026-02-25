@@ -34,3 +34,5 @@
 > **💡** Beispiel zu `Stabsorganisation` und `Führungsstilen` aus anderem Fachbereich:
 >
 > * [Feuerwehr-Dienstvorschrift](https://www.idf.nrw.de/dokumente/wir-ueber-uns/aufgaben-des-idf/fwdv100.pdf)
+
+> **💡** [**S**ituation **N**ormal, **A**ll **F**ucked **U**p](https://gfk.wiki/SNAFU-Prinzip)
